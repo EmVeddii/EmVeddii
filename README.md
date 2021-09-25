@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Emveddii
+- 👀 I’m interested in Coding and IT.
+- 🌱 I’m currently learning HTML, CSS and Information Technology.
+- https://emveddii.carrd.co
